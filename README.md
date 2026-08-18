@@ -1,18 +1,18 @@
-<div data-importer="border"> <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=97&section=header&reversal=false&text=welcome%20to%20home&fontSize=70&fontColor=fffff&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko" /> 
-
-<img data-importer="image" align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl0NmlzYWw3eXZwOHE4MmdjZTQ3Ym01MWxibjBoeTV5ODRjb3VudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ggbCzAotIx43ey4/giphy.gif"  />
-
-###
-  <h2>💫 About Me:</h2>
-
-  💻 Front-End Developer<br>
-  🎨 Passionate about UI/UX & creative interfaces<br>
-  ⚛️ React / Vue enthusiast<br>
-  🛠️ Building web apps & useful digital products<br>
-  ✍️ Writing poetry in my spare time<br>
-  🌱 Always learning something new<br>
-  ☕ Powered by coffee & curiosity
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=97&section=header&reversal=false&text=welcome%20to%20home&fontSize=70&fontColor=fffff&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko" />
 </div>
+
+<img data-importer="image" align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl0NmlzYWw3eXZwOHE4MmdjZTQ3Ym01MWxibjBoeTV5ODRjb3VudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ggbCzAotIx43ey4/giphy.gif" />
+
+### 💫 About Me:
+
+💻 Front-End Developer<br>
+🎨 Passionate about UI/UX & creative interfaces<br>
+⚛️ React / Vue enthusiast<br>
+🛠️ Building web apps & useful digital products<br>
+✍️ Writing poetry in my spare time<br>
+🌱 Always learning something new<br>
+☕ Powered by coffee & curiosity
 
 <br clear="both">
 
