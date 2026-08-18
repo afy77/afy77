@@ -1,9 +1,20 @@
 <div data-importer="border"> <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=97&section=header&reversal=false&text=welcome%20to%20home&fontSize=70&fontColor=fffff&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko" /> 
 
-# 💫 About Me:
+<div>
+  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhpcnBtd2gzb2Rrbnd4dXQzcm1ieWR0eXZwMGllenE1c3Y4c2t2MiZlcD12MV9pbnRlcm5hbGx5X2dpZl9ieV9pZCZDdD9nLzNkZGh5cTZFS3h4N0Z0NFgvZ2lwaHk.gif" />
 
-💻 Front-End Developer<br>🎨 Passionate about UI/UX & creative interfaces<br>⚛️ React / Vue enthusiast<br>🛠️ Building web apps & useful digital products<br>✍️ Writing poetry in my spare time<br>🌱 Always learning something new<br>☕ Powered by coffee & curiosity 
-</div> <img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhpcnBtd2gzb2Rrbnd4dXQzcm1ieWR0eXZwMGllenE1c3Y4c2t2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif" /> <br clear="both">
+  <h2>💫 About Me:</h2>
+
+  💻 Front-End Developer<br>
+  🎨 Passionate about UI/UX & creative interfaces<br>
+  ⚛️ React / Vue enthusiast<br>
+  🛠️ Building web apps & useful digital products<br>
+  ✍️ Writing poetry in my spare time<br>
+  🌱 Always learning something new<br>
+  ☕ Powered by coffee & curiosity
+</div>
+
+<br clear="both">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/afyy7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafi.ghif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafi ahmad Ghifari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aaafyyyyyyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafiahmadghifari859@gmail.com) 
