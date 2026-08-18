@@ -13,10 +13,17 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=afy77&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afy77/afy77/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afy77/afy77/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afy77/afy77/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
----
-[![](https://komarev.com/ghpvc/?username=afy77&icon=2&color=0)](https://visitcount.itsvg.in)
+###
+
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/afy77/afy77/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
