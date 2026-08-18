@@ -1,3 +1,9 @@
+###
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=true&text=welcome%20to%20home&fontSize=70&fontColor=fffff&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+
 # 💫 About Me:
 💻 Front-End Developer<br>🎨 Passionate about UI/UX & creative interfaces<br>⚛️ React / Vue enthusiast<br>🛠️ Building web apps & useful digital products<br>✍️ Writing poetry in my spare time<br>🌱 Always learning something new<br>☕ Powered by coffee & curiosity
 
