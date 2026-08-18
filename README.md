@@ -12,8 +12,11 @@
 ![](https://streak-stats.demolab.com/?user=afy77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=afy77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=afy77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/rafi/rafi/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
